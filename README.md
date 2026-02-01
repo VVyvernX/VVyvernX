@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="755fbae8-c6a1-4c38-95f3-66b2b19bd93f.jpeg" width="100%" />
-</p>
-
 <h1 align="center">🐉 VVyvernX</h1>
 <h3 align="center">Visual × Code × Creation</h3>
 
@@ -57,18 +53,6 @@ Anime aesthetics · Software Engineering · AI Systems
 - 🎥 **Dev Logs** — Art × Code × Storytelling  
 
 > *Each repository is a fragment of a larger universe.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VVyvernX&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VVyvernX&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
