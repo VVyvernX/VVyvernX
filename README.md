@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <img src="755fbae8-c6a1-4c38-95f3-66b2b19bd93f.jpeg" width="100%" />
 </p>
 
 <h1 align="center">🐉 VVyvernX</h1>
@@ -63,11 +63,11 @@ Anime aesthetics · Software Engineering · AI Systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VVyvernX&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VVyvernX&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
